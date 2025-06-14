@@ -6,9 +6,7 @@ Extensive experience liaising with internal and external stakeholders, working w
 using economic insights to support business decisions.
 
 ### My Expertise
-
 My work often involves connecting with stakeholders to translate problems into analytical solutions.
-
 <img src="Logo.png" alt="Your Project Logo" width="5500">
 
 
