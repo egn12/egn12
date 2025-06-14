@@ -11,4 +11,3 @@ My work often involves connecting with stakeholders to translate problems into a
 
 
 
-
