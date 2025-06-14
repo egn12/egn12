@@ -9,7 +9,7 @@ using economic insights to support business decisions.
 
 My work often involves connecting with stakeholders to translate problems into analytical solutions.
 
-![Test](Logo.png)
+<img src="images/Logo.png" alt="Your Project Logo" width="500">
 
 
 
