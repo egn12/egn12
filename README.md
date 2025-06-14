@@ -9,6 +9,5 @@ using economic insights to support business decisions.
 My work often involves connecting with stakeholders to translate problems into analytical solutions.
 <img src="Logo.png" alt="Your Project Logo" width="5500">
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo Test" width="500">
 
 
