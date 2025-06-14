@@ -7,7 +7,9 @@ using economic insights to support business decisions.
 
 ### My Expertise
 My work often involves connecting with stakeholders to translate problems into analytical solutions.
-<img src="Logo.png" alt="Your Project Logo" width="500">
 
+<p align="center">
+  <img src="Logo.png" alt="Your Project Logo" width="5500">
+</p>
 
 
