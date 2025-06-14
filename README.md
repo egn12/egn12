@@ -7,7 +7,7 @@ I'm a passionate [Your Profession/Interest, e.g., Data Scientist, Software Engin
 
 My work often involves connecting with stakeholders to translate problems into analytical solutions.
 
-![A beautiful landscape](Logo.png)
+![Test](Logo.png)
 
 
 
