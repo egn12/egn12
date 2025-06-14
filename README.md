@@ -1,7 +1,9 @@
 
 ### About Me
 
-I'm a passionate [Your Profession/Interest, e.g., Data Scientist, Software Engineer, Student] with a keen interest in [Your Specific Areas, e.g., machine learning, web development, open source]. My background includes [mention a key skill or experience, e.g., programming, visualizations, and statistical analysis].
+Motivated Economist/Data Scientist with 7+ years of experience working in government and academia.
+Extensive experience liaising with internal and external stakeholders, working with regulatory data, and
+using economic insights to support business decisions.
 
 ### My Expertise
 
