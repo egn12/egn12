@@ -1,4 +1,3 @@
-# Welcome to my Github Portfolio!
 
 ### About Me
 
@@ -8,10 +7,8 @@ I'm a passionate [Your Profession/Interest, e.g., Data Scientist, Software Engin
 
 My work often involves connecting with stakeholders to translate problems into analytical solutions.
 
-### Technologies & Tools
+![Alt text for the image](path/to/your/image.png "Optional title for the image")
 
-Here are some technologies I work with:
 
-* **Languages:** Python, R, SQL
-* **Frameworks/Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* **Tools:** Git, Docker, Jupyter Notebooks
+
+
