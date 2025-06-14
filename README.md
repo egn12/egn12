@@ -7,7 +7,7 @@ I'm a passionate [Your Profession/Interest, e.g., Data Scientist, Software Engin
 
 My work often involves connecting with stakeholders to translate problems into analytical solutions.
 
-![Alt text for the image](path/to/your/image.png "Optional title for the image")
+![A beautiful landscape](Logo.png)
 
 
 
